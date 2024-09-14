@@ -44,9 +44,15 @@ El proyecto está compuesto por las siguientes clases:
 
 
 
-| ![Ejemplo](https://github.com/crackoscl/crackoscl.github.io/blob/master/img/Grabaci%C3%B3n%20de%20pantalla%20desde%202024-09-13%2022-52-01.gif) |
+
+
+| ![Ejemplo]() |
 |:--:|
 
+
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/crackoscl/crackoscl.github.io/blob/master/img/Grabaci%C3%B3n%20de%20pantalla%20desde%202024-09-13%2022-52-01.gif"> 
+</p>
 
 
 ## Contribuciones

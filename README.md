@@ -43,7 +43,7 @@ El proyecto está compuesto por las siguientes clases:
 - Observa cómo el valor estimado de π se aproxima a su valor real (3.14159...) a medida que aumentas la cantidad de puntos.
 
 
-![Ejemplo:](https://github.com/crackoscl/crackoscl.github.io/blob/master/img/Grabaci%C3%B3n%20de%20pantalla%20desde%202024-09-13%2022-52-01.gif)|
+| ![Ejemplo:](https://github.com/crackoscl/crackoscl.github.io/blob/master/img/Grabaci%C3%B3n%20de%20pantalla%20desde%202024-09-13%2022-52-01.gif) |
 |:--:|
 
 

@@ -42,7 +42,7 @@ El proyecto está compuesto por las siguientes clases:
 - Mueve el slider hacia la derecha para aumentar el número de puntos.
 - Observa cómo el valor estimado de π se aproxima a su valor real (3.14159...) a medida que aumentas la cantidad de puntos.
 
-![Ejemplo:](https://drive.google.com/file/d/1dDxbYscG5xkD7HHnR30rO-zyds4e37JW/view?usp=sharing)
+![Ejemplo:](https://github.com/crackoscl/crackoscl.github.io/blob/master/img/Grabaci%C3%B3n%20de%20pantalla%20desde%202024-09-13%2022-52-01.gif)
 
 
 ## Contribuciones
